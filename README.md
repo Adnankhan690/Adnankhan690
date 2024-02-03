@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adnankhan690
-- 🌱 I’m currently learning High Level Design and SpringBoot.
+- 🌱 I’m currently learning High Level Design and Spring.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: www.linkedin.com/in/mohd-adnan-khan-052b49265/
 - 😄 Pronouns: He/Him
