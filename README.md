@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adnankhan690
-- 🌱 I’m currently learning Design patterns and HLD.
+- 🌱 I’m currently learning Design patterns and frontend rendering strategies.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: www.linkedin.com/in/mohd-adnan-khan-addy
 - 🧑‍💻 Gitlab: https://gitlab.com/users/md_adnan_khan/projects
